@@ -15,7 +15,7 @@ import org.mockito.Spy;
 import org.mockito.junit.jupiter.MockitoExtension;
 
 @ExtendWith(MockitoExtension.class)
-public class LogTest {
+class LogTest {
 
   private static final BigDecimal DEFAULT_PRECISION = new BigDecimal("0.0001");
 
